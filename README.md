@@ -1,1 +1,4 @@
-# d.js-selfbot
+# ExtensionBot
+
+### Selfbots, sadly, are against the ToS of Discord. Use at your own risk.
+Discord's API provides a separate type of user account dedicated to automation, called a bot account. Bot accounts can be created through the applications page, and are authenticated using a token (rather than a username and password). Unlike the normal OAuth2 flow, bot accounts have full access to all API routes without using bearer tokens, and can connect to the Real Time Gateway. Automating normal user accounts (generally called "self-bots") outside of the OAuth2/bot API is forbidden, and can result in an account termination if found.
