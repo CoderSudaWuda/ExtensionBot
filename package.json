@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CoderSudaWuda/d.js-selfbot/issues"
   },
-  "homepage": "https://github.com/CoderSudaWuda/d.js-selfbot#readme"
+  "homepage": "https://github.com/CoderSudaWuda/d.js-selfbot#readme",
+  "dependencies": {
+    "discord.js": "^11.6.4"
+  }
 }
