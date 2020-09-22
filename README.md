@@ -9,9 +9,8 @@ has it all!
 ## Installation
 Installation is as easy as pie! However, some programs must be downloaded and added to PATH for this bot to be able to run.
 
-**[Git](https://git-scm.com/download)**
-
-**[Node.js](https://nodejs.org/en/)**
+- **[Git](https://git-scm.com/download)**
+- **[Node.js](https://nodejs.org/en/)**
 
 Once you have finished downloading the above and adding them to PATH, you're almost done!
 
