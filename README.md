@@ -15,4 +15,8 @@ Installation is as easy as pie! However, some programs must be downloaded and ad
 Once you have finished downloading the above and adding them to PATH, you're almost done!
 
 - Open a Command Prompt or Powershell inside the folder you want the selfbot to be.
-- Run "git clone https://github.com/CoderSudaWuda/ExtensionBot.git"
+- Run `git clone https://github.com/CoderSudaWuda/ExtensionBot.git`
+- Once that is finished, you must go to the config.json and edit it. Replace "YOUR_TOKEN_HERE" with your actual token, and replace "YOUR_PREFIX_HERE" with your desired prefix. **If you do not know how to get your token, [click here](https://www.youtube.com/watch?v=tI1lzqzLQCs) (p.s. you cannot get your token if you have 2FA enabled)**
+- Run the command `npm install`, then run `npm start`.
+- Your bot should be online! Tada 🎉🎉🎉
+- Keep checking the console, as errors may show up.

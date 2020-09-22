@@ -1,0 +1,19 @@
+{
+  "name": "retrobot",
+  "version": "1.0.0",
+  "description": "A Discord.js selfbot being released to the public",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoderSudaWuda/d.js-selfbot.git"
+  },
+  "author": "Altanis#6362",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoderSudaWuda/d.js-selfbot/issues"
+  },
+  "homepage": "https://github.com/CoderSudaWuda/d.js-selfbot#readme"
+}
